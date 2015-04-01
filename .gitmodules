@@ -1,0 +1,36 @@
+[submodule "salt_master"]
+	path = salt_master
+	url = git@bitbucket.org:eedgar/salt_master.git
+[submodule "salt_pillar"]
+	path = salt_pillar
+	url = git@bitbucket.org:eedgar/salt_pillar.git
+[submodule "formulas/docker-formula"]
+	path = formulas/docker-formula
+	url = https://github.com/eedgar/docker-formula.git
+[submodule "formulas/git-formula"]
+	path = formulas/git-formula
+	url = https://github.com/eedgar/git-formula.git
+[submodule "formulas/ruby-formula"]
+	path = formulas/ruby-formula
+	url = https://github.com/eedgar/ruby-formula.git
+[submodule "formulas/apt-cacher-formula"]
+	path = formulas/apt-cacher-formula
+	url = https://github.com/eedgar/apt-cacher-formula.git
+[submodule "formulas/mysql-formula"]
+	path = formulas/mysql-formula
+	url = https://github.com/eedgar/mysql-formula.git
+[submodule "formulas/europa-formula"]
+	path = formulas/europa-formula
+	url = https://github.com/eedgar/europa-formula.git
+[submodule "formulas/i7-formula"]
+	path = formulas/i7-formula
+	url = git@bitbucket.org:eedgar/i7-formula.git
+[submodule "formulas/salt-formula"]
+	path = formulas/salt-formula
+	url = https://github.com/eedgar/salt-formula.git
+[submodule "formulas/users-formula"]
+	path = formulas/users-formula
+	url = https://github.com/eedgar/users-formula.git
+[submodule "pepper"]
+	path = pepper
+	url = git@github.com:saltstack/pepper.git
